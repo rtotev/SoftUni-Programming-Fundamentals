@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\07SumArrays\bin\Debug\07SumArrays.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\07SumArrays\bin\Debug\07SumArrays.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\07SumArrays\bin\Debug\07SumArrays.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\07SumArrays\obj\Debug\07SumArrays.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\07SumArrays\obj\Debug\07SumArrays.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\07SumArrays\obj\Debug\07SumArrays.pdb

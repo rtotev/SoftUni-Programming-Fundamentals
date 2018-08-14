@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\10CenturiesToNanoseconds\bin\Debug\10CenturiesToNanoseconds.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\10CenturiesToNanoseconds\bin\Debug\10CenturiesToNanoseconds.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\10CenturiesToNanoseconds\bin\Debug\10CenturiesToNanoseconds.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\10CenturiesToNanoseconds\obj\Debug\10CenturiesToNanoseconds.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\10CenturiesToNanoseconds\obj\Debug\10CenturiesToNanoseconds.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\10CenturiesToNanoseconds\obj\Debug\10CenturiesToNanoseconds.csprojResolveAssemblyReference.cache

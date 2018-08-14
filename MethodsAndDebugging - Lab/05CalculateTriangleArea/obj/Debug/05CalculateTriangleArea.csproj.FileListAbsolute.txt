@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\05CalculateTriangleArea\bin\Debug\05CalculateTriangleArea.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\05CalculateTriangleArea\bin\Debug\05CalculateTriangleArea.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\05CalculateTriangleArea\bin\Debug\05CalculateTriangleArea.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\05CalculateTriangleArea\obj\Debug\05CalculateTriangleArea.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\05CalculateTriangleArea\obj\Debug\05CalculateTriangleArea.pdb

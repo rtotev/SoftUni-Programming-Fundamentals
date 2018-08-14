@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\06MathPower\bin\Debug\06MathPower.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\06MathPower\bin\Debug\06MathPower.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\06MathPower\bin\Debug\06MathPower.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\06MathPower\obj\Debug\06MathPower.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\06MathPower\obj\Debug\06MathPower.pdb

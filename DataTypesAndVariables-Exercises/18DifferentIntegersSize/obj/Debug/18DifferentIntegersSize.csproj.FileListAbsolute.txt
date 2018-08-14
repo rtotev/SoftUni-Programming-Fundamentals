@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.csprojResolveAssemblyReference.cache

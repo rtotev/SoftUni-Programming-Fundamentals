@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\03LastKNumbersSums\bin\Debug\03LastKNumbersSums.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\03LastKNumbersSums\obj\Debug\03LastKNumbersSums.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\03LastKNumbersSums\obj\Debug\03LastKNumbersSums.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\03LastKNumbersSums\bin\Debug\03LastKNumbersSums.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\03LastKNumbersSums\bin\Debug\03LastKNumbersSums.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\03LastKNumbersSums\obj\Debug\!!!03LastKNumbersSums.csprojResolveAssemblyReference.cache

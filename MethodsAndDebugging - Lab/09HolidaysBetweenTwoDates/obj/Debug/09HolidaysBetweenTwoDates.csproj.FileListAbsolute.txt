@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Methods and Debugging - Lab\09HolidaysBetweenTwoDates\bin\Debug\09HolidaysBetweenTwoDates.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Methods and Debugging - Lab\09HolidaysBetweenTwoDates\bin\Debug\09HolidaysBetweenTwoDates.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Methods and Debugging - Lab\09HolidaysBetweenTwoDates\bin\Debug\09HolidaysBetweenTwoDates.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Methods and Debugging - Lab\09HolidaysBetweenTwoDates\obj\Debug\09HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Methods and Debugging - Lab\09HolidaysBetweenTwoDates\obj\Debug\09HolidaysBetweenTwoDates.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Methods and Debugging - Lab\09HolidaysBetweenTwoDates\obj\Debug\09HolidaysBetweenTwoDates.pdb

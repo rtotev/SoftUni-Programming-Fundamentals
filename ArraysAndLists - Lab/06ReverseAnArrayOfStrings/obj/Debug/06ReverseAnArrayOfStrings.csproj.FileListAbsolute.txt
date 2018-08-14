@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\06ReverseAnArrayOfStrings\bin\Debug\06ReverseAnArrayOfStrings.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\06ReverseAnArrayOfStrings\bin\Debug\06ReverseAnArrayOfStrings.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\06ReverseAnArrayOfStrings\bin\Debug\06ReverseAnArrayOfStrings.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\06ReverseAnArrayOfStrings\obj\Debug\06ReverseAnArrayOfStrings.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\06ReverseAnArrayOfStrings\obj\Debug\06ReverseAnArrayOfStrings.pdb

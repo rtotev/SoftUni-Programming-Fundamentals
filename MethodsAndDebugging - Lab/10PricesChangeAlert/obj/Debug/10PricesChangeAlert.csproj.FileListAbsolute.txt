@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\10PricesChangeAlert\bin\Debug\10PricesChangeAlert.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\10PricesChangeAlert\bin\Debug\10PricesChangeAlert.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\10PricesChangeAlert\bin\Debug\10PricesChangeAlert.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\10PricesChangeAlert\obj\Debug\10PricesChangeAlert.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\10PricesChangeAlert\obj\Debug\10PricesChangeAlert.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\10PricesChangeAlert\obj\Debug\10PricesChangeAlert.csprojResolveAssemblyReference.cache

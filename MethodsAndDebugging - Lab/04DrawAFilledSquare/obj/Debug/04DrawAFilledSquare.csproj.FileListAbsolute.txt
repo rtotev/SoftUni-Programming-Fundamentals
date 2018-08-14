@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\04DrawAFilledSquare\bin\Debug\04DrawAFilledSquare.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\04DrawAFilledSquare\bin\Debug\04DrawAFilledSquare.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\04DrawAFilledSquare\bin\Debug\04DrawAFilledSquare.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\04DrawAFilledSquare\obj\Debug\04DrawAFilledSquare.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\04DrawAFilledSquare\obj\Debug\04DrawAFilledSquare.pdb

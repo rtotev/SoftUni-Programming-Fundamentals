@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\10RemoveNegativesAndReverse\bin\Debug\10RemoveNegativesAndReverse.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\10RemoveNegativesAndReverse\bin\Debug\10RemoveNegativesAndReverse.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\10RemoveNegativesAndReverse\bin\Debug\10RemoveNegativesAndReverse.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\10RemoveNegativesAndReverse\obj\Debug\10RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\10RemoveNegativesAndReverse\obj\Debug\10RemoveNegativesAndReverse.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\10RemoveNegativesAndReverse\obj\Debug\10RemoveNegativesAndReverse.pdb

@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\08MultiplyEvensByOdds\bin\Debug\08MultiplyEvensByOdds.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\08MultiplyEvensByOdds\obj\Debug\08MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\08MultiplyEvensByOdds\bin\Debug\08MultiplyEvensByOdds.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\08MultiplyEvensByOdds\bin\Debug\08MultiplyEvensByOdds.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\08MultiplyEvensByOdds\obj\Debug\08MultiplyEvensByOdds.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\08MultiplyEvensByOdds\obj\Debug\08MultiplyEvensByOdds.pdb

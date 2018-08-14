@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\06TriplesOfLatinLetters\bin\Debug\06TriplesOfLatinLetters.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\06TriplesOfLatinLetters\bin\Debug\06TriplesOfLatinLetters.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\06TriplesOfLatinLetters\bin\Debug\06TriplesOfLatinLetters.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\06TriplesOfLatinLetters\obj\Debug\06TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\06TriplesOfLatinLetters\obj\Debug\06TriplesOfLatinLetters.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\06TriplesOfLatinLetters\obj\Debug\06TriplesOfLatinLetters.pdb

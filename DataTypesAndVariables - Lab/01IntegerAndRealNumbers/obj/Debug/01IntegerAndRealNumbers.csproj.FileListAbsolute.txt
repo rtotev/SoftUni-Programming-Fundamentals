@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\01IntegerAndRealNumbers\bin\Debug\01IntegerAndRealNumbers.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\01IntegerAndRealNumbers\bin\Debug\01IntegerAndRealNumbers.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\01IntegerAndRealNumbers\bin\Debug\01IntegerAndRealNumbers.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\01IntegerAndRealNumbers\obj\Debug\01IntegerAndRealNumbers.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\01IntegerAndRealNumbers\obj\Debug\01IntegerAndRealNumbers.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\01IntegerAndRealNumbers\obj\Debug\01IntegerAndRealNumbers.pdb

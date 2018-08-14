@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\04TripleSum\bin\Debug\04TripleSum.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\04TripleSum\bin\Debug\04TripleSum.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\04TripleSum\bin\Debug\04TripleSum.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\04TripleSum\obj\Debug\04TripleSum.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\04TripleSum\obj\Debug\04TripleSum.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\04TripleSum\obj\Debug\04TripleSum.pdb

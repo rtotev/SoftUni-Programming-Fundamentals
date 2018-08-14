@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\02CircleArea12DigitsPrecision\bin\Debug\02CircleArea12DigitsPrecision.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\02CircleArea12DigitsPrecision\bin\Debug\02CircleArea12DigitsPrecision.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\02CircleArea12DigitsPrecision\bin\Debug\02CircleArea12DigitsPrecision.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\02CircleArea12DigitsPrecision\obj\Debug\02CircleArea12DigitsPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\02CircleArea12DigitsPrecision\obj\Debug\02CircleArea12DigitsPrecision.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\Programming-Fundamentals-Data-Types-and-Variables-Lab\02CircleArea12DigitsPrecision\obj\Debug\02CircleArea12DigitsPrecision.pdb

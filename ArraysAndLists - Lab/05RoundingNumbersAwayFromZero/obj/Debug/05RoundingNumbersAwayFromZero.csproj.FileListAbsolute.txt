@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\05RoundingNumbersAwayFromZero\bin\Debug\05RoundingNumbersAwayFromZero.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\05RoundingNumbersAwayFromZero\bin\Debug\05RoundingNumbersAwayFromZero.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\05RoundingNumbersAwayFromZero\bin\Debug\05RoundingNumbersAwayFromZero.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\05RoundingNumbersAwayFromZero\obj\Debug\05RoundingNumbersAwayFromZero.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\05RoundingNumbersAwayFromZero\obj\Debug\05RoundingNumbersAwayFromZero.pdb

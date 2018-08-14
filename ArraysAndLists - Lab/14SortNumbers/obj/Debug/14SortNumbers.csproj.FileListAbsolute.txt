@@ -1,0 +1,5 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\14SortNumbers\bin\Debug\14SortNumbers.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\14SortNumbers\bin\Debug\14SortNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\14SortNumbers\bin\Debug\14SortNumbers.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\14SortNumbers\obj\Debug\14SortNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\14SortNumbers\obj\Debug\14SortNumbers.pdb

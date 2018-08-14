@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\08EmployeeData\bin\Debug\08EmployeeData.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\08EmployeeData\bin\Debug\08EmployeeData.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\08EmployeeData\bin\Debug\08EmployeeData.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\08EmployeeData\obj\Debug\08EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\08EmployeeData\obj\Debug\08EmployeeData.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\08EmployeeData\obj\Debug\08EmployeeData.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\13SplitByWordCasing\bin\Debug\13SplitByWordCasing.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\13SplitByWordCasing\bin\Debug\13SplitByWordCasing.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\13SplitByWordCasing\bin\Debug\13SplitByWordCasing.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\13SplitByWordCasing\obj\Debug\13SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\13SplitByWordCasing\obj\Debug\13SplitByWordCasing.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\13SplitByWordCasing\obj\Debug\13SplitByWordCasing.pdb

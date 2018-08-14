@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\07GreaterOfTwoValues\bin\Debug\07GreaterOfTwoValues.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\07GreaterOfTwoValues\obj\Debug\07GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\07GreaterOfTwoValues\bin\Debug\07GreaterOfTwoValues.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\07GreaterOfTwoValues\bin\Debug\07GreaterOfTwoValues.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\07GreaterOfTwoValues\obj\Debug\07GreaterOfTwoValues.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\07GreaterOfTwoValues\obj\Debug\07GreaterOfTwoValues.pdb

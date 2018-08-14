@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\DataTypesAndVariables-Exercises\03PracticeCharsAndStrings\bin\Debug\03PracticeCharsAndStrings.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\DataTypesAndVariables-Exercises\03PracticeCharsAndStrings\bin\Debug\03PracticeCharsAndStrings.exe
+c:\users\rosen\documents\visual studio 2015\Projects\DataTypesAndVariables-Exercises\03PracticeCharsAndStrings\bin\Debug\03PracticeCharsAndStrings.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\DataTypesAndVariables-Exercises\03PracticeCharsAndStrings\obj\Debug\03PracticeCharsAndStrings.exe
+c:\users\rosen\documents\visual studio 2015\Projects\DataTypesAndVariables-Exercises\03PracticeCharsAndStrings\obj\Debug\03PracticeCharsAndStrings.pdb

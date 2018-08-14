@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\03PrintingTriangle\bin\Debug\03PrintingTriangle.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\03PrintingTriangle\bin\Debug\03PrintingTriangle.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\03PrintingTriangle\bin\Debug\03PrintingTriangle.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\03PrintingTriangle\obj\Debug\03PrintingTriangle.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\03PrintingTriangle\obj\Debug\03PrintingTriangle.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\03PrintingTriangle\obj\Debug\03PrintingTriangle.csprojResolveAssemblyReference.cache

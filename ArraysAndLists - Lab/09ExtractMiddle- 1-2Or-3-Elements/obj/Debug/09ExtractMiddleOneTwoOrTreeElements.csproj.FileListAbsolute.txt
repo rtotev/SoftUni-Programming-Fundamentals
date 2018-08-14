@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\09ExtractMiddle- 1-2Or-3-Elements\bin\Debug\09ExtractMiddle- 1-2Or-3-Elements.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\09ExtractMiddle- 1-2Or-3-Elements\bin\Debug\09ExtractMiddle- 1-2Or-3-Elements.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\09ExtractMiddle- 1-2Or-3-Elements\bin\Debug\09ExtractMiddle- 1-2Or-3-Elements.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\09ExtractMiddle- 1-2Or-3-Elements\obj\Debug\09ExtractMiddleOneTwoOrTreeElements.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\09ExtractMiddle- 1-2Or-3-Elements\obj\Debug\09ExtractMiddle- 1-2Or-3-Elements.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\09ExtractMiddle- 1-2Or-3-Elements\obj\Debug\09ExtractMiddle- 1-2Or-3-Elements.pdb

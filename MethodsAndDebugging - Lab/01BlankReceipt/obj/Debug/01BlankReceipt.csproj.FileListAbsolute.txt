@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\01BlankReceipt\bin\Debug\01BlankReceipt.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\01BlankReceipt\bin\Debug\01BlankReceipt.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\01BlankReceipt\bin\Debug\01BlankReceipt.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\01BlankReceipt\obj\Debug\01BlankReceipt.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\01BlankReceipt\obj\Debug\01BlankReceipt.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\01BlankReceipt\obj\Debug\01BlankReceipt.pdb

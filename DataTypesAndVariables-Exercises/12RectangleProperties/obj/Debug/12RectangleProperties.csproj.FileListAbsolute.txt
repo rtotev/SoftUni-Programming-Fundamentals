@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\12RectangleProperties\bin\Debug\12RectangleProperties.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\12RectangleProperties\bin\Debug\12RectangleProperties.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\12RectangleProperties\bin\Debug\12RectangleProperties.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\12RectangleProperties\obj\Debug\12RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\12RectangleProperties\obj\Debug\12RectangleProperties.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\12RectangleProperties\obj\Debug\12RectangleProperties.pdb

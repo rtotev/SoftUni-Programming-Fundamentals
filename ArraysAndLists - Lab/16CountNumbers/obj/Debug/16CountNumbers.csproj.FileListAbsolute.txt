@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\16CountNumbers\bin\Debug\16CountNumbers.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\16CountNumbers\bin\Debug\16CountNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\16CountNumbers\bin\Debug\16CountNumbers.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\16CountNumbers\obj\Debug\16CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\16CountNumbers\obj\Debug\16CountNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\16CountNumbers\obj\Debug\16CountNumbers.pdb

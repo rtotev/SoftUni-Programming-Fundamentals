@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\01DayOfWeek\bin\Debug\01DayOfWeek.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\01DayOfWeek\bin\Debug\01DayOfWeek.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\01DayOfWeek\bin\Debug\01DayOfWeek.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\01DayOfWeek\obj\Debug\01DayOfWeek.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\01DayOfWeek\obj\Debug\01DayOfWeek.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\01DayOfWeek\obj\Debug\01DayOfWeek.pdb

@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\02SignOfIntegerNumber\bin\Debug\02SignOfIntegerNumber.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\02SignOfIntegerNumber\bin\Debug\02SignOfIntegerNumber.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\02SignOfIntegerNumber\bin\Debug\02SignOfIntegerNumber.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\02SignOfIntegerNumber\obj\Debug\02SignOfIntegerNumber.exe
+c:\users\rosen\documents\visual studio 2015\Projects\Methods and Debugging - Lab\02SignOfIntegerNumber\obj\Debug\02SignOfIntegerNumber.pdb

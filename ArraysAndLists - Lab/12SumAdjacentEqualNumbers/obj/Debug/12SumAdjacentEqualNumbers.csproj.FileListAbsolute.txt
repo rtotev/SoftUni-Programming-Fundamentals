@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\12SumAdjacentEqualNumbers\bin\Debug\12SumAdjacentEqualNumbers.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\12SumAdjacentEqualNumbers\bin\Debug\12SumAdjacentEqualNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\12SumAdjacentEqualNumbers\bin\Debug\12SumAdjacentEqualNumbers.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\12SumAdjacentEqualNumbers\obj\Debug\12SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\12SumAdjacentEqualNumbers\obj\Debug\12SumAdjacentEqualNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\12SumAdjacentEqualNumbers\obj\Debug\12SumAdjacentEqualNumbers.pdb

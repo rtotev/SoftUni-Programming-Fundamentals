@@ -1,0 +1,6 @@
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\15SquareNumbers\bin\Debug\15SquareNumbers.exe.config
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\15SquareNumbers\bin\Debug\15SquareNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\15SquareNumbers\bin\Debug\15SquareNumbers.pdb
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\15SquareNumbers\obj\Debug\15SquareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\15SquareNumbers\obj\Debug\15SquareNumbers.exe
+C:\Users\Rosen\documents\visual studio 2015\Projects\Arrays-And-Lists-Lab\15SquareNumbers\obj\Debug\15SquareNumbers.pdb

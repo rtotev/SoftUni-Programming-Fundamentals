@@ -1,0 +1,5 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\09ReversedChars\bin\Debug\09ReversedChars.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\09ReversedChars\bin\Debug\09ReversedChars.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\09ReversedChars\bin\Debug\09ReversedChars.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\09ReversedChars\obj\Debug\09ReversedChars.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\DataTypesAndVariables-Exercises\09ReversedChars\obj\Debug\09ReversedChars.pdb
